@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="search_airTicket_text">Finding cheap flights</string>
+    <string name="hint_from">From-Moscow</string>
+    <string name="hint_to">To-Turkey</string>
+    <string name="fly_away_musically">Fly away musically</string>
+    <string name="from_price">from</string>
+
+    <!-- BottomSheetDialog -->
+    <string name="route_text">Difficult route</string>
+    <string name="anywhere_text">Anywhere</string>
+    <string name="weekend_text">Weekend</string>
+    <string name="hot_tickets_text">Hot tickets</string>
+
+
+</resources>

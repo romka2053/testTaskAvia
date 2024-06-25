@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TIcketsAirTest</string>
+
+    <!-- bottom menu-->
+    <string name="air_tickets">Air Tickets</string>
+    <string name="hotels">Hotels</string>
+    <string name="shorter">Shorter</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="profile">Profile</string>
+
+
+</resources>

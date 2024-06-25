@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="input_from">Введите место отправления</string>
+    <string name="input_to">Введите место прибытия</string>
+</resources>

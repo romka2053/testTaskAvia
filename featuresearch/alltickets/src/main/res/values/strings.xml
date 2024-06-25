@@ -1,0 +1,8 @@
+<resources>
+    <string name="hour">h</string>
+    <string name="minutes">m</string>
+    <string name="road">on the road</string>
+    <string name="no_transfers">No transfers</string>
+    <string name="filter">Filter</string>
+    <string name="price_graphic">Graphic price</string>
+</resources>

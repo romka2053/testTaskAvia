@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/airTicketFragment">
+
+    <include app:graph="@navigation/nav_search" />
+    <include app:graph="@navigation/nav_map" />
+    <include app:graph="@navigation/nav_hotels" />
+    <include app:graph="@navigation/nav_subscriptions" />
+    <include app:graph="@navigation/nav_profile" />
+
+</navigation>

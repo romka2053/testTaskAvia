@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="search_airTicket_text">Поиск дешевых авиабилетов</string>
+    <string name="hint_from">Откуда-Москва</string>
+    <string name="hint_to">Куда-Турция</string>
+
+    <string name="fly_away_musically">Музыкально отлететь</string>
+    <string name="from_price">от</string>
+
+
+    <!-- BottomSheetDialog -->
+    <string name="route_text">Сложный маршрут</string>
+    <string name="anywhere_text">Куда угодно</string>
+    <string name="weekend_text">Выходные</string>
+    <string name="hot_tickets_text">Горячие билеты</string>
+</resources>

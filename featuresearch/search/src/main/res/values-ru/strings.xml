@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plus_here">Обратно</string>
+    <string name="count_class">1,эконом</string>
+    <string name="filters">фильтры</string>
+    <string name="direct_flights">Прямые рейсы</string>
+    <string name="show_all">Показать все</string>
+    <string name="hide">Скрыть</string>
+    <string name="choose">Выбрать</string>
+    <string name="cancel">Отмена</string>
+    <string name="here_error">Обратно не может быть раньше отправки</string>
+    <string name="view_all_tickets">Посмотреть все билеты</string>
+    <string name="subscribe_to_price">Подписаться на цену</string>
+    <string name="hint_to">Куда-Турция</string>
+    <string name="hint_from">Введите место отправления</string>
+</resources>

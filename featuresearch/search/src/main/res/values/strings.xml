@@ -1,0 +1,16 @@
+<resources>
+    <string name="plus_here">Here</string>
+    <string name="count_class">1,economy</string>
+    <string name="filters">filters</string>
+    <string name="direct_flights">Direct flights</string>
+    <string name="show_all">Show all</string>
+    <string name="hide">Hide</string>
+    <string name="choose">Choose</string>
+    <string name="cancel">Cancel</string>
+    <string name="here_error">Return cannot be before dispatch</string>
+    <string name="view_all_tickets">View all tickets</string>
+    <string name="subscribe_to_price">Subscribe to price</string>
+    <string name="hint_from">From-Moscow</string>
+    <string name="hint_to">To-Turkey</string>
+
+</resources>
